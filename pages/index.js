@@ -1,6 +1,6 @@
 function Home() {
     return (
-        <h1>Germano Manoel De Melo the best programmer of world!</h1>
+        <h1>Lewis Hamilton é melhor piloto de formula 1 do mundo. 👑</h1>
     )
 }
 
