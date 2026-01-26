@@ -1,0 +1,5 @@
+root = true # No momento que a gente abrir um arquivo para editar, ele procura pelo arquivo .editorconfig na mesma pasta se não achar ele sobe uma pasta, se achar ele pega as configurações desse arquivo e sobe outra pasta novamente.
+
+[*] # especifica que as regras abaixo é para todos os arquivos.
+indent_style = space # Defione o espaço para quando sempre acontecer uma indentação.
+indent_size = 2 # Define a largura da indentação.
